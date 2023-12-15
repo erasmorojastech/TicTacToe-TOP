@@ -16,3 +16,6 @@ This project is created using:
 
 ## Project status
 In process...
+
+## Live Preview
+[Tic Tac Toe](https://tictactoe-top.netlify.app/)
